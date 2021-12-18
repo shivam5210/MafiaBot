@@ -9,8 +9,8 @@
 # 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_Badass. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
-[![MAFIABOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/MafiaBot_Support)
+ frienduserbot madeby @devotee_of_bhole. Supported by @clanlord_7. Join for update related info channel and group :- https://t.me/friends_chatting_india THANKS FOR VISITING OUR REPO💖
+[ FRIENDSBOT LOGO](https://telegra.ph/file/50d85b1f02557bad37481.jpg)(https://t.me/friends_chatting_world)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
@@ -19,7 +19,7 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_
 <details>
 
   <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/MafiaBot_Support">☢️JOIN MAFIABOT SUPPORT☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/friends_chatting_world"☢️JOIN☢️</a></h2>
 
 </details>
 
@@ -53,7 +53,7 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_
 Simply clone the repository and run the main file:
 ```sh
 git clone https://github.com/H1M4N5HU0P/MAFIA-USERBOT.git
-cd MAFIA-USERBOT
+cd FRIENDS USERBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
@@ -110,7 +110,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 H1M4N5HU0P
+Copyright (C) 2021 @devotee_of_bhole
 
 Poject [MAFIABOT](https://github.com/MafiaBotOP/MafiaBotOP) is free software: you can redistribute it and/or modify
 
